@@ -1,0 +1,20 @@
+{
+  "name": "ddd-cqrs",
+  "version": "1.0.0",
+  "description": "js implementation",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komarov-sergey/ddd-cqrs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komarov-sergey/ddd-cqrs/issues"
+  },
+  "homepage": "https://github.com/komarov-sergey/ddd-cqrs#readme"
+}
